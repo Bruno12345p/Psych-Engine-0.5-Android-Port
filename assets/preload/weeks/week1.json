@@ -1,8 +1,8 @@
 {
 	"songs": [
-		["Bopeebo", "dad", [146, 113, 253]],
-		["Fresh", "dad", [146, 113, 253]],
-		["Dad Battle", "dad", [146, 113, 253]]
+		["Bopeebo", "sad-mouse", [146, 113, 253]],
+		["Fresh", "face", [146, 113, 253]],
+		["Dad Battle", "mouse", [146, 113, 253]]
 	],
 
 	"weekCharacters": [
