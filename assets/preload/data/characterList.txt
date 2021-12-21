@@ -5,5 +5,7 @@ dad
 gf
 mouse-happy
 mouse-phase2
+mouse-smile
+sad-mouse
 smileeeeer
 suicide
